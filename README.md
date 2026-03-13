@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋 I'm Harika
 
-<!--
-**harikagonaboina-tech/harikagonaboina-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate
+💻 Entry-Level Java Full Stack Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+* Java
+* JDBC
+* SQL
+* HTML
+* CSS
+* Servlets
+* Python
+* MySQL
+
+---
+
+## 📂 Projects
+
+### 🧑‍💼 Employee Management System
+
+Java Servlet based web application for managing employee records using JDBC and MySQL.
+
+### 🏨 Hotel Room Management System
+
+Console-based Java application for managing hotel room bookings and staff details.
+
+### 🦠 Hepatitis Virus Detection
+
+Machine learning project developed in Python to detect Hepatitis virus using medical dataset.
+
+---
+
+## 🛠 Tools
+
+* Eclipse IDE
+* Apache Tomcat
+* MySQL Workbench
+* Git
+* GitHub
+
+---
+
+## 📫 Contact Me
+
+📧 Email: [harikagonaboina@gmail.com](mailto:harikagonaboina@gmail.com)
+🔗 LinkedIn: [www.linkedin.com/in/gonaboina-harika](http://www.linkedin.com/in/gonaboina-harika)
